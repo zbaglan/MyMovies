@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="size_of_star">60dp</dimen>
+    <dimen name="margin">8dp</dimen>
+    <dimen name="progressBar_width">42dp</dimen>
+    <dimen name="margin_for_landscape">16dp</dimen>
+    <dimen name="land_width">40dp</dimen>
+    <dimen name="padding">8dp</dimen>
+    <dimen name="width_play_image">60dp</dimen>
+</resources>
